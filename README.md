@@ -1,51 +1,55 @@
 <img width="1792" height="537" alt="Banner" src="https://github.com/user-attachments/assets/97b4d80d-eccb-4642-af7e-17e97258771a" />
+## Desarrollador Full Stack | Ingeniero en Computación e Informática
 
-
----
-
-## Desarrollador de Software | Ingeniero en Computación e Informática
-
-**LinkedIn:** [linkedin.com/in/jose-dinamarca-ortega](https://linkedin.com/in/jose-dinamarca-ortega)
-**Idiomas:** Español (Nativo) | Inglés (Intermedio B2)
+**LinkedIn:** [linkedin.com/in/jose-dinamarca-ortega](https://linkedin.com/in/jose-dinamarca-ortega) | **Portafolio:** [jose94d.github.io](https://jose94d.github.io/)  
+**Contacto:** Jose.m.dinamarca@gmail.com | **Idiomas:** Español (Nativo) / Inglés (Intermedio B2 - Oral/Escrito)
 
 ---
 
 ### Sobre Mí
 
-Soy **Ingeniero en Computación e Informática** y **Técnico en Programación**. Mi enfoque profesional está centrado en el **Desarrollo Backend / Full Stack** y la **Ingeniería de Datos**. 
+Soy **Ingeniero en Computación e Informática** y **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Mi enfoque profesional está centrado en el **Desarrollo Full Stack**, la **Ingeniería de Datos** y el **Aseguramiento de Calidad (QA)** de software. 
 
-Cuento con una sólida base teórica y práctica en el diseño de arquitecturas de software, seguridad, bases de datos relacionales y metodologías ágiles (Certificación Scrum). Además, mi experiencia como **Docente Especialista en TI y Programación** me ha permitido desarrollar habilidades avanzadas en:
-* **Code Review y Refactorización:** Evaluación exhaustiva de código bajo principios SOLID y Clean Code.
-* **Documentación Técnica:** Capacidad para estructurar requerimientos complejos y redactar manuales claros.
-* **Resolución de Problemas:** Desglose de lógica y algoritmos complejos para audiencias técnicas y no especializadas.
+Cuento con experiencia en liderazgo técnico, optimización de procesos y aplicación de buenas prácticas de desarrollo. A través de mi rol en instituciones educativas superiores he consolidado competencias avanzadas en:
+* **Code Review y Refactorización:** Evaluación exhaustiva y mentoría de arquitecturas de software bajo principios SOLID, Clean Code y patrones de diseño.
+* **Automatización y Procesamiento de Datos:** Desarrollo de herramientas de Web Scraping e ingeniería de datos para la extracción y centralización de información.
+* **Documentación Técnica y Metodologías Ágiles:** Estandarización de flujos de trabajo bajo marcos Scrum y estructuración de requerimientos complejos.
 
-Busco integrarme en equipos dinámicos y entornos remotos que desafíen mis capacidades de desarrollo y optimización de código.
+Busco integrarme en equipos dinámicos y entornos remotos que desafíen mis capacidades de desarrollo, escalabilidad y optimización de código.
 
 ---
 
 ### Tecnologías y Herramientas
 
-#### Lenguajes de Programación
-`C#` `Go Lang` `Java` `C++` `C` `JavaScript` 
+#### Lenguajes y Backend
+`Python` `NodeJS` `C#` `Go Lang` `Java` `C++` `C`
+
+#### Desarrollo Web (Frontend & Full Stack)
+`JavaScript` `ReactJS` `Vue` `HTML/CSS` `Jakarta Enterprise`
 
 #### Bases de Datos
 `PostgreSQL` `MySQL` `Oracle` `MongoDB`
 
-#### Desarrollo Web (Nociones & Full Stack)
-`NodeJS` `ReactJS` `Vue` `Jakarta Enterprise`
+#### Infraestructura, Control de Versiones y Herramientas
+`Git` `GitHub` `Docker` `Linux` `PfSense (Avanzado)` `Power BI`
 
-#### Infraestructura, Redes y Herramientas
-`PfSense (Avanzado)` `Mantenimiento de Servidores` `Power BI` `MS Office (Avanzado)`
-
----
-
-### Certificaciones
-
-* **Scrum Fundamentals Certified (SFC)** - SCRUMstudy
+#### Prácticas y Metodologías
+`Scrum` `Principios SOLID` `Clean Code` `Code Review` `QA (Control de Calidad)`
 
 ---
 
-### Mis Intereses en Desarrollo
+### Proyectos Destacados
+
+* **GunplaScrapper-Chile** ([github.com/Jose94D/GunplaScrapper-Chile](https://github.com/Jose94D/GunplaScrapper-Chile)): Herramienta de automatización y Web Scraping para el monitoreo en tiempo real del mercado de coleccionables en Chile. Desarrollo enfocado en la extracción, procesamiento y centralización de datos desde múltiples fuentes e-commerce.
+  * **Stack:** `Python` `Requests` `BeautifulSoup` `Pandas`
+
+---
+
+### Certificaciones y Educación
+
+* **Scrum Fundamentals Certified (SFC)** - SCRUMstudy (2024)
+* **Ingeniería de Ejecución en Computación e Informática** - Universidad Católica del Maule (2021-2023)
+* **Técnico de Nivel Superior en Programación y Análisis de Sistemas** - CFT San Agustín (2018-2021)
 
 * **Arquitectura de Software & Backend:** Construcción de servicios e APIs robustas y escalables.
 * **Seguridad de Software:** Implementación de buenas prácticas de desarrollo seguro y control de infraestructura.
