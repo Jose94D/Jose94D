@@ -1,4 +1,5 @@
 <img width="1792" height="537" alt="Banner" src="https://github.com/user-attachments/assets/97b4d80d-eccb-4642-af7e-17e97258771a" />
+
 ## Desarrollador Full Stack | Ingeniero en Computación e Informática
 
 **LinkedIn:** [linkedin.com/in/jose-dinamarca-ortega](https://linkedin.com/in/jose-dinamarca-ortega) | **Portafolio:** [jose94d.github.io](https://jose94d.github.io/)  
@@ -39,6 +40,8 @@ Busco integrarme en equipos dinámicos y entornos remotos que desafíen mis capa
 ---
 
 ### Proyectos Destacados
+
+<img width="1383" height="159" alt="Banner gunpla scraper" src="https://github.com/user-attachments/assets/8480f5be-0606-459f-90d2-0327d0de9b2e" />
 
 * **GunplaScrapper-Chile** ([github.com/Jose94D/GunplaScrapper-Chile](https://github.com/Jose94D/GunplaScrapper-Chile)): Herramienta de automatización y Web Scraping para el monitoreo en tiempo real del mercado de coleccionables en Chile. Desarrollo enfocado en la extracción, procesamiento y centralización de datos desde múltiples fuentes e-commerce.
   * **Stack:** `Python` `Requests` `BeautifulSoup` `Pandas`
