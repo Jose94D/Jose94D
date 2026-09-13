@@ -1,7 +1,7 @@
 <img width="1792" height="537" alt="Banner" src="https://github.com/user-attachments/assets/97b4d80d-eccb-4642-af7e-17e97258771a" />
 
-### Desarrollador Full Stack | Ingeniero en Computación e Informática
-##
+## Desarrollador Full Stack | Ingeniero en Computación e Informática
+
 **LinkedIn:** [linkedin.com/in/jose-dinamarca-ortega](https://linkedin.com/in/jose-dinamarca-ortega) | **Portafolio:** [jose94d.github.io](https://jose94d.github.io/)  
 **Contacto:** Jose.m.dinamarca@gmail.com | **Idiomas:** Español (Nativo) / Inglés (Intermedio B2 - Oral/Escrito)
 
@@ -49,7 +49,7 @@ Busco integrarme en equipos dinámicos y entornos remotos que desafíen mis capa
 
 <img width="1383" height="159" alt="Banner DynamicLanding" src="https://github.com/user-attachments/assets/3178d870-a799-40e6-87ae-c81aacc0abc0" />
  
- * **DynamicLanding** ([https://github.com/Jose94D/DynamicLanding](https://github.com/Jose94D/DynamicLanding)): DinamicLanding es un CMS modular desarrollado con Flask y SQLite para crear y administrar landing pages comerciales. Incluye un panel de administración para gestionar contenido, diseño, blog, SEO, redes sociales, visibilidad de módulos y analíticas de tráfico de forma sencilla y centralizada.
+ * **DynamicLanding** ([https://github.com/Jose94D/DynamicLanding](https://github.com/Jose94D/DynamicLanding)): DynamicLanding es un CMS modular desarrollado con Flask y SQLite para crear y administrar landing pages comerciales. Incluye un panel de administración para gestionar contenido, diseño, blog, SEO, redes sociales, visibilidad de módulos y analíticas de tráfico de forma sencilla y centralizada.
      * **Stack:** `Python` `Flask` `SQLite` `Jinja2` `Bootstrap` `Font Awesome` `Chart.js`
 
 ---
