@@ -43,7 +43,7 @@ Busco integrarme en equipos dinámicos y entornos remotos que desafíen mis capa
 ##
 <img width="1383" height="159" alt="Banner Gunplascraper" src="https://github.com/user-attachments/assets/8480f5be-0606-459f-90d2-0327d0de9b2e" />
 
-* **GunplaScraper-Chile** ([github.com/Jose94D/GunplaScrapper-Chile](https://github.com/Jose94D/GunplaScrapper-Chile)): Herramienta de automatización y Web Scraping para el monitoreo en tiempo real del mercado de coleccionables en Chile. Desarrollo enfocado en la extracción, procesamiento y centralización de datos desde múltiples fuentes e-commerce.
+* **GunplaScraper-Chile** ([github.com/Jose94D/GunplaScrapper-Chile](https://github.com/Jose94D/GunplaScrapper-Chile)): Herramienta de automatización y web scraping para monitoreo de mercado en tiempo real de coleccionables (Gunpla) en Chile. Desarrollo enfocado en extracción de datos, procesamiento, normalización y centralización de información.
      * **Stack:** `Python` `Flask` `SQLite` `Jinja2` `Requests` `BeautifulSoup4` `Chart.js`
 ##
 
