@@ -7,9 +7,9 @@
 # José Manuel Dinamarca
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python+%7C+Flask+%7C+JavaScript+%7C+SQL;SOLID+%7C+Clean+Code+%7C+Code+Review;Disponible+para+trabajo+remoto+o+h%C3%ADbrido">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python+%7C+Flask+%7C+JavaScript+%7C+SQL;SOLID+%7C+Clean+Code+%7C+Code+Review;Disponible+para+trabajo+remoto+o+h%C3%ADbrido">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python+%7C+Flask+%7C+JavaScript+%7C+SQL;SOLID+%7C+Clean+Code+%7C+Code+Review;Disponible+para+trabajo+remoto+o+h%C3%ADbrido" alt="Desarrollador Full Stack Junior | Python, Flask, JavaScript, SQL | SOLID, Clean Code, Code Review" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python%2C+Flask%2C+JavaScript%2C+SQL">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python%2C+Flask%2C+JavaScript%2C+SQL">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python%2C+Flask%2C+JavaScript%2C+SQL" alt="Desarrollador Full Stack Junior | Python, Flask, JavaScript, SQL" />
 </picture>
 
 Ingeniero de Ejecución en Computación e Informática y docente de programación.<br/>
@@ -80,13 +80,25 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 
 ## Cómo diseño mi código
 
-Reviso proyectos de estudiantes con criterios SOLID y Clean Code, y aplico los mismos criterios en los míos. Ejemplos en GunplaScrapper-Chile:
+Separo responsabilidades para que cada parte de un proyecto se pueda entender y modificar sin tocar el resto. Esto es lo que se ve en mis repositorios:
 
-| Decisión | Beneficio |
+**GunplaScrapper-Chile**
+
+| Decisión | Dónde verlo |
 |---|---|
-| **Un scraper independiente por tienda** | Agregar o corregir una tienda no obliga a tocar las demás |
-| **Capa de acceso a datos separada** | Las rutas no mezclan lógica de negocio con consultas SQL |
-| **Blueprints por módulo** | Cada parte de la aplicación tiene una responsabilidad clara y se mantiene por separado |
+| **Un scraper independiente por tienda:** si una tienda cambia su HTML, solo se corrige su propio archivo | [`scrapers/`](https://github.com/Jose94D/GunplaScrapper-Chile/tree/main/scrapers) |
+| **Acceso a la base de datos y logging en un módulo central,** fuera de las rutas | [`core/`](https://github.com/Jose94D/GunplaScrapper-Chile/tree/main/core) |
+| **Un Blueprint por área** de la aplicación: página principal, vista de producto y panel de administración | [`routes/`](https://github.com/Jose94D/GunplaScrapper-Chile/tree/main/routes) |
+| **Configuración en un solo archivo** y scripts de mantenimiento separados de la app web | [`config.py`](https://github.com/Jose94D/GunplaScrapper-Chile/blob/main/config.py) · [`ejecutar_manual.py`](https://github.com/Jose94D/GunplaScrapper-Chile/blob/main/ejecutar_manual.py) · [`reset_catalogo.py`](https://github.com/Jose94D/GunplaScrapper-Chile/blob/main/reset_catalogo.py) |
+
+**DynamicLanding**
+
+| Decisión | Dónde verlo |
+|---|---|
+| **Diseño y visibilidad de módulos guardados en la base de datos,** no en el código: se cambian desde el panel | [`database.py`](https://github.com/Jose94D/DynamicLanding/blob/main/database.py) |
+| **Modelo de datos documentado** con un diagrama entidad-relación | [`ER_model.png`](https://github.com/Jose94D/DynamicLanding/blob/main/ER_model.png) |
+| **Integración con APIs externas aislada** en su propio módulo | [`social_api.py`](https://github.com/Jose94D/DynamicLanding/blob/main/social_api.py) |
+| **Instalación reproducible:** dependencias declaradas y base de datos inicializable con un script | [`requirements.txt`](https://github.com/Jose94D/DynamicLanding/blob/main/requirements.txt) · [`database.py`](https://github.com/Jose94D/DynamicLanding/blob/main/database.py) |
 
 <br/>
 
@@ -114,8 +126,8 @@ Reviso proyectos de estudiantes con criterios SOLID y Clean Code, y aplico los m
 ## Experiencia
 
 <table>
-<tr><td><b>Docente de Programación</b><br/>CFT San Agustín / CFT Estatal del Maule<br/><sub>Mar 2024 – Presente</sub></td><td> ⦿ Reviso y evalúo el código de más de 40 proyectos de estudiantes (SOLID, Clean Code, patrones de diseño).<br/> ⦿ Guío a equipos en arquitectura, refactorización y depuración.<br/> ⦿ Diseño material técnico para Seguridad de Software, Programación Avanzada II y Gestión de Servicios TI.</td></tr>
-<tr><td><b>Técnico Informático y Soporte TI</b><br/>Liceo Nuestra Señora del Rosario<br/><sub>Mar 2023 – Feb 2024</sub></td><td> ⦿ Administré servidores, redes e infraestructura para 150 usuarios.<br/> ⦿ Reduje en 35% los incidentes de red con políticas de firewall PfSense.<br/> ⦿ Reduje en 20% los tiempos de inactividad al resolver fallas de hardware y software.</td></tr>
+<tr><td><b>Docente de Programación</b><br/>CFT San Agustín / CFT Estatal del Maule<br/><sub>Mar 2024 – Presente</sub></td><td>⦿ Reviso y evalúo el código de más de 40 proyectos de estudiantes (SOLID, Clean Code, patrones de diseño).<br/>⦿ Guío a equipos en arquitectura, refactorización y depuración.<br/>⦿ Diseño material técnico para Seguridad de Software, Programación Avanzada II y Gestión de Servicios TI.</td></tr>
+<tr><td><b>Técnico Informático y Soporte TI</b><br/>Liceo Nuestra Señora del Rosario<br/><sub>Mar 2023 – Feb 2024</sub></td><td>⦿ Administré servidores, redes e infraestructura para 150 usuarios.<br/>⦿ Reduje en 35% los incidentes de red con políticas de firewall PfSense.<br/>⦿ Reduje en 20% los tiempos de inactividad al resolver fallas de hardware y software.</td></tr>
 </table>
 
 <br/>
