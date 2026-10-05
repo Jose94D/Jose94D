@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2056" height="765" alt="240f8ceb-1a40-4314-9cf5-70e26de202c2" src="https://github.com/user-attachments/assets/480c772e-f878-4de7-b100-9e9fff779fcd" />
+<img width="2056" height="367" alt="240f8ceb-1a40-4314-9cf5-70e26de202c2" src="https://github.com/user-attachments/assets/138fbc32-f840-44ce-8b5f-e51c9379ecb7" />
 
 <br/>
 
@@ -21,7 +21,7 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 ![Modalidad](https://img.shields.io/badge/Remoto_/_Híbrido-30363D?style=for-the-badge)
 ![Ubicación](https://img.shields.io/badge/Linares,_Chile-30363D?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-dinamarca-ortega)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-dinamarca/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://jose94d.github.io/)
 [![Email](https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.m.dinamarca@gmail.com)
 [![Descargar CV](https://img.shields.io/badge/Descargar_CV-PDF-2F81F7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Jose_Manuel_Dinamarca.pdf)
