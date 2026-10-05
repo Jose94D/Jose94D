@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="1792" height="537" alt="Banner de José Manuel Dinamarca, desarrollador Full Stack Junior" src="https://github.com/user-attachments/assets/97b4d80d-eccb-4642-af7e-17e97258771a" />
+<img width="2056" height="765" alt="240f8ceb-1a40-4314-9cf5-70e26de202c2" src="https://github.com/user-attachments/assets/480c772e-f878-4de7-b100-9e9fff779fcd" />
 
 <br/>
 
-# José Manuel Dinamarca
+# José Dinamarca
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Desarrollador+Full+Stack+Junior;Python%2C+Flask%2C+JavaScript%2C+SQL">
