@@ -13,13 +13,13 @@
 </picture>
 
 Ingeniero de Ejecución en Computación e Informática y docente de programación.<br/>
-Construyo aplicaciones web completas, del modelo de datos al panel de administración.
+Construyo aplicaciones web completas, del modelo de datos al panel de administración, y apps Android que funcionan sin conexión.
 
 <br/>
 
 ![Disponible](https://img.shields.io/badge/Disponible_para_trabajar-2EA043?style=for-the-badge)
 ![Modalidad](https://img.shields.io/badge/Remoto_/_Híbrido-30363D?style=for-the-badge)
-![Ubicación](https://img.shields.io/badge/Linares,_Chile-30363D?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/Chile-30363D?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-dinamarca/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://jose94d.github.io/)
@@ -37,24 +37,27 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 ## Proyectos Destacados
 
 <div align="center">
-<img width="1383" height="159" alt="Banner de GunplaScrapper-Chile" src="https://github.com/user-attachments/assets/8480f5be-0606-459f-90d2-0327d0de9b2e" />
+<img width="1383" height="159" alt="Banner de Gunpla Scraper Chile" src="https://github.com/user-attachments/assets/8480f5be-0606-459f-90d2-0327d0de9b2e" />
 </div>
 
-### GunplaScrapper-Chile
-> Plataforma de monitoreo de precios con web scraping
+### Gunpla Scraper Chile
+> Radar de precios de Gunpla en Chile, en producción en [gunplascraper-chile.cl](https://www.gunplascraper-chile.cl/)
 
 <table>
-<tr><td>🛒 <b>Cobertura</b></td><td>8 tiendas e-commerce chilenas, más de 400 productos con historial en SQLite</td></tr>
-<tr><td>⏱️ <b>Automatización</b></td><td>Scraping programado con APScheduler cada 12 horas</td></tr>
-<tr><td>🧩 <b>Arquitectura</b></td><td>Flask Blueprints, capa de acceso a datos y un scraper independiente por tienda</td></tr>
-<tr><td>🔗 <b>Catálogo unificado</b></td><td>Fusión de productos duplicados entre tiendas</td></tr>
-<tr><td>📈 <b>Interfaz</b></td><td>Filtros, ordenamiento, paginación, gráficos de precios históricos y modo oscuro</td></tr>
-<tr><td>📝 <b>Administración</b></td><td>Logging de acciones administrativas</td></tr>
+<tr><td>🌐 <b>En producción</b></td><td><a href="https://www.gunplascraper-chile.cl/">www.gunplascraper-chile.cl</a>: más de 250 kits disponibles, con precios actualizados dos veces al día</td></tr>
+<tr><td>🛒 <b>Cobertura</b></td><td>8 scrapers integrados y 7 tiendas activas en el sitio publicado, con historial de precios por tienda en SQLite</td></tr>
+<tr><td>⏱️ <b>Automatización</b></td><td>Escaneo a las 00:00 y 12:00 con APScheduler o el cron del hosting, más respaldo diario de la base</td></tr>
+<tr><td>🧩 <b>Arquitectura</b></td><td>Flask Blueprints, lógica y SQL separados de las rutas y un scraper independiente por tienda</td></tr>
+<tr><td>🔗 <b>Catálogo unificado</b></td><td>Agrupa las publicaciones de un mismo modelo, con detección y fusión de duplicados</td></tr>
+<tr><td>📈 <b>Interfaz</b></td><td>Filtros por grado, orden, paginación, gráficos de precios históricos, sello de mínimo histórico y modo claro y oscuro</td></tr>
+<tr><td>📝 <b>Administración</b></td><td>Panel con métricas de visitas, estado de las tiendas, reportes en Excel, respaldos y registro de acciones; protegido con token CSRF, contraseñas con hash y límite de intentos</td></tr>
+<tr><td>🤝 <b>Scraping responsable</b></td><td>Cada tienda se evaluó contra su <code>robots.txt</code>, con pausas entre páginas y reintentos ante errores temporales</td></tr>
+<tr><td>✅ <b>Pruebas</b></td><td>Pruebas de regresión con páginas reales de cada tienda, en GitHub Actions en cada push</td></tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30363D?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat&logo=sqlite&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=flat&logo=jinja&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-30363D?style=flat) ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-30363D?style=flat) ![APScheduler](https://img.shields.io/badge/APScheduler-30363D?style=flat) ![Chart.js](https://img.shields.io/badge/Chart.js-30363D?style=flat&logo=chartdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30363D?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat&logo=sqlite&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=flat&logo=jinja&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-30363D?style=flat) ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-30363D?style=flat) ![APScheduler](https://img.shields.io/badge/APScheduler-30363D?style=flat) ![Chart.js](https://img.shields.io/badge/Chart.js-30363D?style=flat&logo=chartdotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-30363D?style=flat&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363D?style=flat&logo=githubactions&logoColor=white)
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/GunplaScrapper-Chile)
+[![Ver sitio en vivo](https://img.shields.io/badge/Ver_sitio_en_vivo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gunplascraper-chile.cl/) [![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/GunplaScrapper-Chile)
 
 <br/>
 
@@ -67,12 +70,14 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 
 <table>
 <tr><td>🔐 <b>Panel privado</b></td><td>Autenticación y modelo de datos diseñado a medida</td></tr>
-<tr><td>✍️ <b>Blog</b></td><td>CRUD completo, control de visibilidad y orden de los módulos</td></tr>
+<tr><td>✍️ <b>Blog</b></td><td>CRUD completo, con fechas de publicación e imágenes</td></tr>
+<tr><td>🧱 <b>Módulos</b></td><td>Visibilidad y orden de cada sección, editables desde el panel</td></tr>
 <tr><td>🔎 <b>SEO</b></td><td>Meta título, descripción y Open Graph editables desde el panel, sin tocar código</td></tr>
 <tr><td>📊 <b>Analítica</b></td><td>Tráfico con gráficos interactivos por año y mes</td></tr>
+<tr><td>📱 <b>Redes sociales</b></td><td>Publicación reciente de Instagram en la landing, a través de su API</td></tr>
 </table>
 
-![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30363D?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat&logo=sqlite&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=flat&logo=jinja&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-30363D?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-30363D?style=flat&logo=chartdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30363D?style=flat&logo=flask&logoColor=white) ![Flask-Login](https://img.shields.io/badge/Flask--Login-30363D?style=flat) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat&logo=sqlite&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=flat&logo=jinja&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-30363D?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-30363D?style=flat&logo=chartdotjs&logoColor=white)
 
 [![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/DynamicLanding)
 
@@ -86,17 +91,18 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 > App Android para visitadores en terreno, 100% offline
 
 <table>
+<tr><td>📦 <b>Estado</b></td><td>Versión 0.1.0 con APK descargable; en refinamiento para usuarios reales, antes de la beta cerrada con visitadores</td></tr>
 <tr><td>📥 <b>Importación</b></td><td>Kardex de clientes desde Excel con lector <code>.xlsx</code> propio: detecta columnas, agrupa oficinas y reimporta sin duplicar</td></tr>
 <tr><td>🔄 <b>Ciclos por empresa</b></td><td>Frecuencias por categoría, varias empresas a la vez y aviso de clientes en riesgo</td></tr>
-<tr><td>🗺️ <b>Ruta óptima</b></td><td>Optimizador propio con ventanas de horario y colación; rutas y mapas offline con Valhalla y MapLibre</td></tr>
+<tr><td>🗺️ <b>Ruta óptima</b></td><td>Sugiere a quién visitar según urgencia, km y horarios; optimizador propio con ventanas de horario y colación; rutas y mapas offline por región con Valhalla y MapLibre</td></tr>
 <tr><td>🔒 <b>Seguridad</b></td><td>Base de datos cifrada con SQLCipher (AES-256), bloqueo biométrico y respaldo cifrado</td></tr>
-<tr><td>🛡️ <b>Privacidad</b></td><td>Sin servidor ni cuentas: los datos no salen del teléfono. Diseñada considerando la Ley 21.719</td></tr>
-<tr><td>⚙️ <b>CI</b></td><td>Cada push compila el APK en GitHub Actions</td></tr>
+<tr><td>🛡️ <b>Privacidad</b></td><td>Sin servidor ni cuentas: los datos no salen del teléfono. Exporta o elimina los datos de un cliente; diseñada considerando la Ley 21.719</td></tr>
+<tr><td>⚙️ <b>CI</b></td><td>Cada push compila el APK en GitHub Actions; los mapas se generan y publican en <a href="https://github.com/Jose94D/visenda-mapas">visenda-mapas</a></td></tr>
 </table>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-30363D?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-30363D?style=flat&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-30363D?style=flat&logo=android&logoColor=white) ![Room](https://img.shields.io/badge/Room-30363D?style=flat) ![SQLCipher](https://img.shields.io/badge/SQLCipher-30363D?style=flat&logo=sqlite&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-30363D?style=flat&logo=maplibre&logoColor=white) ![Valhalla](https://img.shields.io/badge/Valhalla-30363D?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363D?style=flat&logo=githubactions&logoColor=white)
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/Visenda)
+[![Descargar APK](https://img.shields.io/badge/Descargar_APK-2EA043?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Jose94D/Visenda/releases/latest) [![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/Visenda)
 
 <br/>
 
@@ -108,9 +114,9 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 <tr><td><b>Backend</b></td><td><img alt="Python" src="https://img.shields.io/badge/Python-30363D?style=flat&amp;logo=python&amp;logoColor=white"> <img alt="Flask" src="https://img.shields.io/badge/Flask-30363D?style=flat&amp;logo=flask&amp;logoColor=white"> <img alt="Flask Blueprints" src="https://img.shields.io/badge/Flask_Blueprints-30363D?style=flat"> <img alt="Jinja2" src="https://img.shields.io/badge/Jinja2-30363D?style=flat&amp;logo=jinja&amp;logoColor=white"> <img alt="Autenticación" src="https://img.shields.io/badge/Autenticación-30363D?style=flat"> <img alt="Paneles de administración" src="https://img.shields.io/badge/Paneles_de_administración-30363D?style=flat"> <img alt="Web scraping" src="https://img.shields.io/badge/Web_scraping-30363D?style=flat"> <img alt="Requests" src="https://img.shields.io/badge/Requests-30363D?style=flat"> <img alt="BeautifulSoup4" src="https://img.shields.io/badge/BeautifulSoup4-30363D?style=flat"> <img alt="APScheduler" src="https://img.shields.io/badge/APScheduler-30363D?style=flat"></td></tr>
 <tr><td><b>Frontend</b></td><td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-30363D?style=flat&amp;logo=javascript&amp;logoColor=white"> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-30363D?style=flat&amp;logo=html5&amp;logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-30363D?style=flat&amp;logo=css3&amp;logoColor=white"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-30363D?style=flat&amp;logo=bootstrap&amp;logoColor=white"> <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-30363D?style=flat&amp;logo=chartdotjs&amp;logoColor=white"> <img alt="Diseño responsivo" src="https://img.shields.io/badge/Diseño_responsivo-30363D?style=flat"></td></tr>
 <tr><td><b>Móvil</b></td><td><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-30363D?style=flat&amp;logo=kotlin&amp;logoColor=white"> <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-30363D?style=flat&amp;logo=jetpackcompose&amp;logoColor=white"> <img alt="Android" src="https://img.shields.io/badge/Android-30363D?style=flat&amp;logo=android&amp;logoColor=white"> <img alt="Room" src="https://img.shields.io/badge/Room-30363D?style=flat"> <img alt="MapLibre" src="https://img.shields.io/badge/MapLibre-30363D?style=flat&amp;logo=maplibre&amp;logoColor=white"></td></tr>
-<tr><td><b>Bases de datos</b></td><td><img alt="SQL" src="https://img.shields.io/badge/SQL-30363D?style=flat"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-30363D?style=flat&amp;logo=sqlite&amp;logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat&amp;logo=postgresql&amp;logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-30363D?style=flat&amp;logo=mysql&amp;logoColor=white"> <img alt="Modelado entidad-relación" src="https://img.shields.io/badge/Modelado_entidad--relación-30363D?style=flat"></td></tr>
+<tr><td><b>Bases de datos</b></td><td><img alt="SQL" src="https://img.shields.io/badge/SQL-30363D?style=flat"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-30363D?style=flat&amp;logo=sqlite&amp;logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat&amp;logo=postgresql&amp;logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-30363D?style=flat&amp;logo=mysql&amp;logoColor=white"> <img alt="SQLCipher" src="https://img.shields.io/badge/SQLCipher-30363D?style=flat&amp;logo=sqlite&amp;logoColor=white"> <img alt="Modelado entidad-relación" src="https://img.shields.io/badge/Modelado_entidad--relación-30363D?style=flat"></td></tr>
 <tr><td><b>Buenas prácticas</b></td><td><img alt="POO" src="https://img.shields.io/badge/POO-30363D?style=flat"> <img alt="Principios SOLID" src="https://img.shields.io/badge/Principios_SOLID-30363D?style=flat"> <img alt="Clean Code" src="https://img.shields.io/badge/Clean_Code-30363D?style=flat"> <img alt="Patrones de diseño" src="https://img.shields.io/badge/Patrones_de_diseño-30363D?style=flat"> <img alt="Code review" src="https://img.shields.io/badge/Code_review-30363D?style=flat"> <img alt="Refactorización" src="https://img.shields.io/badge/Refactorización-30363D?style=flat"></td></tr>
-<tr><td><b>Herramientas</b></td><td><img alt="Git" src="https://img.shields.io/badge/Git-30363D?style=flat&amp;logo=git&amp;logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-30363D?style=flat&amp;logo=github&amp;logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-30363D?style=flat&amp;logo=visualstudiocode&amp;logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-30363D?style=flat&amp;logo=linux&amp;logoColor=white"></td></tr>
+<tr><td><b>Herramientas</b></td><td><img alt="Git" src="https://img.shields.io/badge/Git-30363D?style=flat&amp;logo=git&amp;logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-30363D?style=flat&amp;logo=github&amp;logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-30363D?style=flat&amp;logo=githubactions&amp;logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-30363D?style=flat&amp;logo=visualstudiocode&amp;logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-30363D?style=flat&amp;logo=linux&amp;logoColor=white"></td></tr>
 </table>
 
 **Conocimientos básicos**
@@ -149,7 +155,7 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 
 <br/>
 
-Junior Full Stack Developer based in Chile, focused on Python and Flask. I've built complete web applications on my own, from the data model to the admin panel, and I teach programming and review student code with a focus on SOLID principles and Clean Code.
+Junior Full Stack Developer based in Chile, focused on Python and Flask. I've built complete web applications on my own, from the data model to the admin panel, including a [price tracker that is live](https://www.gunplascraper-chile.cl/), as well as an offline Android app. I also teach programming and review student code with a focus on SOLID principles and Clean Code.
 
 I'm looking for my first Full Stack or Backend role, remote or hybrid. English level: B2 (spoken and written).
 
