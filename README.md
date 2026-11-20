@@ -19,7 +19,7 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 
 ![Disponible](https://img.shields.io/badge/Disponible_para_trabajar-2EA043?style=for-the-badge)
 ![Modalidad](https://img.shields.io/badge/Remoto_/_Híbrido-30363D?style=for-the-badge)
-![Ubicación](https://img.shields.io/badge/Linares,_Chile-30363D?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/Chile-30363D?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-dinamarca/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://jose94d.github.io/)
