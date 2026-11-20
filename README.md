@@ -41,7 +41,7 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 </div>
 
 ### GunplaScrapper-Chile
-> Plataforma de monitoreo de precios con web scraping
+> Plataforma de monitoreo de precios con web scraping, en producción en [gunplascraper-chile.cl](https://www.gunplascraper-chile.cl/)
 
 <table>
 <tr><td>🛒 <b>Cobertura</b></td><td>8 tiendas e-commerce chilenas, más de 400 productos con historial en SQLite</td></tr>
@@ -54,7 +54,7 @@ Construyo aplicaciones web completas, del modelo de datos al panel de administra
 
 ![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30363D?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-30363D?style=flat&logo=sqlite&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-30363D?style=flat&logo=jinja&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-30363D?style=flat) ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-30363D?style=flat) ![APScheduler](https://img.shields.io/badge/APScheduler-30363D?style=flat) ![Chart.js](https://img.shields.io/badge/Chart.js-30363D?style=flat&logo=chartdotjs&logoColor=white)
 
-[![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/GunplaScrapper-Chile)
+[![Ver sitio en vivo](https://img.shields.io/badge/Ver_sitio_en_vivo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gunplascraper-chile.cl/) [![Ver repositorio](https://img.shields.io/badge/Ver_repositorio-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose94D/GunplaScrapper-Chile)
 
 <br/>
 
